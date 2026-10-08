@@ -25,5 +25,18 @@
     "stdout": "................                                                         [100%]\n16 passed in 0.04s\n",
     "stderr": "",
     "error_message": ""
+  },
+  {
+    "timestamp": "2026-10-08T20:26:32.470660",
+    "attempt": 1,
+    "task": "Add exponentiation support using the ** operator.",
+    "files_changed": [
+      "./target_project/py-calculator\\calc_app/core.py"
+    ],
+    "test_passed": true,
+    "return_code": 0,
+    "stdout": "................                                                         [100%]\n16 passed in 0.02s\n",
+    "stderr": "",
+    "error_message": ""
   }
 ]
