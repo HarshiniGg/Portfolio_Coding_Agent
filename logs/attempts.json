@@ -1,0 +1,29 @@
+[
+  {
+    "timestamp": "2026-10-08T15:16:19.174413",
+    "attempt": 1,
+    "task": "Add exponentiation support using the ** operator. Add appropriate tests for exponentiation and keep all existing tests passing.",
+    "files_changed": [
+      "./target_project/py-calculator\\calc_app/core.py",
+      "./target_project/py-calculator\\tests/test_core.py"
+    ],
+    "test_passed": true,
+    "return_code": 0,
+    "stdout": "................                                                         [100%]\n16 passed in 0.08s\n",
+    "stderr": "",
+    "error_message": ""
+  },
+  {
+    "timestamp": "2026-10-08T15:23:37.882027",
+    "attempt": 1,
+    "task": "Fix the exponentiation support using the ** operator. All existing exponentiation tests must pass.",
+    "files_changed": [
+      "./target_project/py-calculator\\calc_app/core.py"
+    ],
+    "test_passed": true,
+    "return_code": 0,
+    "stdout": "................                                                         [100%]\n16 passed in 0.04s\n",
+    "stderr": "",
+    "error_message": ""
+  }
+]

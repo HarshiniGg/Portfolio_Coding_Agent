@@ -1,0 +1,28 @@
+# Environment / secrets
+.env
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Virtual environment
+Lib/
+Scripts/
+Include/
+pyvenv.cfg
+
+# Agent-generated backups
+backups/
+
+# Target project caches
+target_project/**/__pycache__/
+target_project/**/.pytest_cache/
+
+# IDE / editor
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
